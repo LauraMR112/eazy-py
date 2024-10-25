@@ -1,8 +1,0 @@
-M3_2.txt
-M4_2.txt
-M5_3.txt
-M6_1.txt
-M7_9.txt
-M8_2.txt
-M9_3.txt
-
